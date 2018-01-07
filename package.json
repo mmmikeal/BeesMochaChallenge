@@ -1,0 +1,28 @@
+{
+  "name": "beesmochachallenge",
+  "version": "1.0.0",
+  "description": "Mocha.js testing environment for Beeswax coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmmikeal/BeesMochaChallenge.git"
+  },
+  "keywords": [
+    "Beeswax",
+    "Mocha",
+    "unit",
+    "test"
+  ],
+  "author": "Michael Lam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmmikeal/BeesMochaChallenge/issues"
+  },
+  "homepage": "https://github.com/mmmikeal/BeesMochaChallenge#readme",
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  }
+}
