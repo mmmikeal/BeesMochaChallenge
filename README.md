@@ -1,7 +1,10 @@
 # BeesMochaChallenge
 Mocha unit test environment for coding challenge
 
-> From within repo, run 
+> to run open the terminal, navigate within repo, and run commands:
   > - npm install
   > - npm test
+
+
+> The algorithm implementation and documentation are located within /test/test.js
 
